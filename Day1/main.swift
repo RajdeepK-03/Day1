@@ -86,3 +86,10 @@ for i in stride(from: 1, to: 10, by: 2)
     print ("deep \(i)")
     
 }
+
+var x0 = Int()
+print (x0)
+
+var x00 : Int?
+print(x00)
+
